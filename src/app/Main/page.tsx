@@ -42,7 +42,7 @@ const Main = () => {
                 <Image
                   alt="content"
                   className="object-cover object-center h-full w-full"
-                  src="/side-table.png"
+                  src="/g13.png"
                   width={600}
                   height={400}
                 />
@@ -61,7 +61,7 @@ const Main = () => {
                 <Image
                   alt="content"
                   className="object-cover object-center h-full w-full"
-                  src="/cloud-sofa.png"
+                  src="/g15.png"
                   width={600}
                   height={400}
                 />
@@ -96,7 +96,7 @@ const Main = () => {
                 <Image
                   alt="content"
                   className="object-cover object-center h-full w-full"
-                  src="/small-sofa.png"
+                  src="/g1.png"
                   width={600}
                   height={400}
                 />
@@ -115,7 +115,7 @@ const Main = () => {
                 <Image
                   alt="content"
                   className="object-cover object-center h-full w-full"
-                  src="/white-dining.png"
+                  src="/g2.png"
                   width={600}
                   height={400}
                 />
@@ -134,7 +134,7 @@ const Main = () => {
                 <Image
                   alt="content"
                   className="object-cover object-center h-full w-full"
-                  src="/dinning.png"
+                  src="/g3.png"
                   width={600}
                   height={400}
                 />
@@ -153,7 +153,7 @@ const Main = () => {
                 <Image
                   alt="content"
                   className="object-cover object-center h-full w-full"
-                  src="/miror.png"
+                  src="/g4.png"
                   width={600}
                   height={400}
                 />
@@ -175,7 +175,10 @@ const Main = () => {
       <section className="text-gray-600 body-font overflow-hidden bg-yellow-50">
         <div className="container px-5 py-20 mx-auto">
           <div className=" mx-auto flex flex-wrap">
-            <Image src="/graysofa.png" alt="sofa" width={400} height={300} />
+            <Image src="/graycoversofa.png"
+             alt="sofa" 
+             width={400} 
+             height={300} />
             <div className="lg:w-1/2 w-full lg:pl-10 lg:py-2 lg:mt-0">
               <p className="leading-relaxed text-center">New Arrivals</p>
               <h1 className="text-gray-900 text-3xl title-font font-medium text-center">
@@ -212,7 +215,7 @@ const Main = () => {
                 price: "Rs. 25,000.00",
               },
               {
-                src: "/whitekeyboard.png",
+                src: "/blog9.jpeg",
                 title: "Going all-in with millennial design",
                 price: "Rs. 25,000.00",
               },

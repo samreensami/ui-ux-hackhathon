@@ -16,10 +16,10 @@ const topPicks = () => {
             </div>
             <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 pb-3 gap-4 text-black">
               {[
-                { src: '/whiteSofa.png', title: 'Trenton modular sofa_3', price: 'Rs. 25,000.00' },
-                { src: '/white-dining.png', title: 'Granite dining table with dining chair', price: 'Rs. 25,000.00' },
-                { src: '/dinning.png', title: 'Outdoor bar table and stool', price: 'Rs. 25,000.00' },
-                { src: '/miror.png', title: 'Plain console with teak mirror', price: 'Rs. 25,000.00' },
+                { src: '/g14.png', title: 'Trenton modular sofa_3', price: 'Rs. 25,000.00' },
+                { src: '/g2.png', title: 'Granite dining table with dining chair', price: 'Rs. 25,000.00' },
+                { src: '/g3.png', title: 'Outdoor bar table and stool', price: 'Rs. 25,000.00' },
+                { src: '/g4.png', title: 'Plain console with teak mirror', price: 'Rs. 25,000.00' },
               ].map((item, index) => (
                 <div key={index} className="p-4">
                   <div className="relative h-48 w-full rounded overflow-hidden">
